@@ -3,6 +3,7 @@
 }
 p{
     line-height: 2;
+    text-align: center;
 }
 a{
     text-decoration: none;
@@ -20,53 +21,57 @@ section{
     padding: 50px 0;
 }
 .sec1 h2{
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: 600;
     color: #000;
 }
 .sec1 h5{
-    color: #333;
-    line-height: 2;
+    font-size: 1.6rem;
+    font-weight: 600;
 }
 .sec2 h1{
-    font-size: 2.7rem;
+    font-size: 2.6rem;
     font-weight: 900;
+    margin-bottom: 30px;
 }
 .sec2 h4{
-    font-size: 1.5rem;
-    font-weight: 400;
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 2;
 }
 .sec2 h2{
     font-weight: 600;
     text-align: center;
     line-height: 2;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 .sec3 h1{
     font-size: 2.2rem;
     font-weight: 900;
 }
 .sec3 h4{
-    font-size: 1.5rem;
-    font-weight: 400;
+    font-size: 1.2rem;
+    font-weight: 500;
 }
 .sec3 h2{
     text-align: center;
     line-height: 2;
     font-weight: 600;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 .sec4 h1{
     font-size: 2.2rem;
     font-weight: 900;
 }
 .sec4 h4{
-    font-size: 1.5rem;
-    font-weight: 400;
+    font-size: 1.3rem;
+    font-weight: 500;
 }
 .sec4 h5{
     color: blue;
     line-height: 2;
+    font-weight: 800;
+    font-size: 1.1rem;
 }
 .sec4 h2{
     color: #000;
